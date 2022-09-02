@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+}
+.intro {
+    max-height: 100vh;
+    overflow: hidden;
+
+}
+.video {
+    position: relative;
+    padding-bottom: 56.25%;
+    
+}
+.vide__media {
+    width: 100%;
+    height: auto;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
